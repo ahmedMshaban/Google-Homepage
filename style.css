@@ -1,0 +1,107 @@
+head {
+	display: none;
+}
+
+body {
+	
+	background-color: #fff;
+	color:#222;
+	display: block;
+}
+
+html, body {
+	margin:0;
+	padding:0;
+}
+
+div {
+	display: block;
+}
+
+.continer {
+    height:70px;
+    width:325.594px;
+	float: right;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nav {
+	list-style-type: none;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.nav li {
+
+	display: inline;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+#ahmed {
+	display: inline-block;
+    height:24px;
+    width: 60px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.nav li a {
+	text-decoration: none;
+	color:#222;
+}
+
+#Gmail:hover, #Images:hover {
+    text-decoration:underline;
+}
+
+#Gmail {
+	display: inline-block;
+	padding-left: 15px;
+	height:24px;
+    width: 33.9513px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+#Images {
+	display: inline-block;
+	padding-left: 15px;
+	height:24px;
+    width: 42.6486px;
+    text-align: right;
+    vertical-align: middle;
+    padding-right:15px;
+}
+
+
+#G-apps {
+	display: inline-block;
+	height:30px;
+    width: 30px;
+    text-align: left;
+    border-radius: 2px;
+    vertical-align: middle;
+}
+
+#GN {
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+    padding: 0 2px;
+    vertical-align: middle;
+    padding-left:13px;
+    padding-right:15px;    
+}
+
+#ahmed-pic {
+    display: inline-block;
+    border-radius: 50%;
+    margin: -1px;
+    height: 32px;
+    width: 32px;
+    vertical-align: middle;
+    text-align: left;
+}

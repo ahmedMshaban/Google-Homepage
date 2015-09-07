@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-EG">
+	<head>
+		<title>Google</title>
+		<link rel="stylesheet" type="text/css" href="Style.css">
+	</head>
+	<body>
+	<div>	
+		<ul>
+			<li title="Looking for Google+? Click the Google Apps icon to the right.">Ahmed</li>
+			<li><a href="#">Gmail</a></li>
+			<li><a href="#" >Images</a></li>
+			<li><a href="#"><img title="Google Apps" src="https://raw.githubusercontent.com/sahilda/the_odin_project/master/google-homepage/grid.png"></a></li>	
+			<li><a href="#"><img title="Google Notifications" src="https://raw.githubusercontent.com/sahilda/the_odin_project/master/google-homepage/bell.png" width="30px" height="30px" alt="bell photo"/></a></li>
+			<li><a href="#"><img title="Google Account: Ahmed Shaban  
+			(ahmed.m.shaban.egy@gmail.com)" src="img/Ahmed.png" width="100px" height="100px" alt="Ahmed photo"/></a></li>
+		<ul>
+	<div>
+	<div>			
+		<img title="Google" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" title="Google img">
+	</div>
+	<div>
+		<p title="Google">Egypt</p>
+	</div>	
+	<form action="#" method="Get">
+		<input  name="search bar"type="text">
+		<img src="https://raw.githubusercontent.com/sahilda/the_odin_project/master/google-homepage/search_mic.gif">
+		<input value="Google Search"  name="Manula-search" type="submit">
+		<input value="I'm Feeling Lucky"  name="Manula-search" type="submit">
+	</form>
+	<div>
+		<p>Google.com.eg offered in:</p>
+	</div>
+	<ul>
+		<li><a href="#">Advertising</a></li>
+		<li><a href="#">Business</a></li>
+		<li><a href="#">About</a></li>
+	</ul>
+	<ul>
+		<li><a href="#">Privacy</a></li>
+		<li><a href="#">Terms</a></li>
+		<li><a href="#">About</a></li>
+		<li><a href="#">Settings</a></li>
+		<li><a href="#">Use Google.com.eg</a></li>
+	</ul>
+	</body>
+</html>
